@@ -1,0 +1,20 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-400"
+"ResourceDimensions"		"scale-400"
+
+[Files]
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\split.scale-400.pri"			"resources.pri"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\Wide310x150Logo.scale-400.png"			"Assets\Wide310x150Logo.scale-400.png"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\Square71x71Logo.scale-400.png"			"Assets\Square71x71Logo.scale-400.png"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\Square44x44Logo.scale-400.png"			"Assets\Square44x44Logo.scale-400.png"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\Square310x310Logo.scale-400.png"			"Assets\Square310x310Logo.scale-400.png"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\Square150x150Logo.scale-400.png"			"Assets\Square150x150Logo.scale-400.png"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\SplashScreen.scale-400.png"			"Assets\SplashScreen.scale-400.png"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\ScribaSketchWideTile.scale-400.png"			"Assets\ScribaSketchWideTile.scale-400.png"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\ScribaSketchStoreLogo.scale-400.png"			"Assets\ScribaSketchStoreLogo.scale-400.png"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\ScribaSketchSplashScreen.scale-400.png"			"Assets\ScribaSketchSplashScreen.scale-400.png"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\ScribaSketchSmallTile.scale-400.png"			"Assets\ScribaSketchSmallTile.scale-400.png"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\ScribaSketchMedTile.scale-400.png"			"Assets\ScribaSketchMedTile.scale-400.png"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\ScribaSketchLargeTile.scale-400.png"			"Assets\ScribaSketchLargeTile.scale-400.png"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\ScribaSketchAppList.scale-400.png"			"Assets\ScribaSketchAppList.scale-400.png"
+"C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\obj\x64\Release\PackageLayout\Assets\NewStoreLogo.scale-400.png"			"Assets\NewStoreLogo.scale-400.png"

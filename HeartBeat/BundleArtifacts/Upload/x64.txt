@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\bin\x64\Release\Upload\HeartBeat_1.1.17.0_x64.appx
+SymbolPackage=C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\AppPackages\HeartBeat_1.1.17.0\HeartBeat_1.1.17.0_x64.appxsym

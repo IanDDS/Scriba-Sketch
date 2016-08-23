@@ -1,0 +1,6 @@
+MainPackage=C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\bin\ARM\Release\Upload\HeartBeat_1.1.17.0_ARM.appx
+SymbolPackage=C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\AppPackages\HeartBeat_1.1.17.0\HeartBeat_1.1.17.0_ARM.appxsym
+ResourcePack=C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\_scale-100.appx
+ResourcePack=C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\_scale-125.appx
+ResourcePack=C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\_scale-150.appx
+ResourcePack=C:\Users\Ian C\Desktop\Heart-rate-monitor-UWP--ScribaDraw\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\_scale-400.appx

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
+  <Identity Name="DublinDesignStudioLtd.ScribaSketch" Publisher="CN=927E28FA-2083-4502-A14F-3B25453AA7D3" Version="1.1.17.0" />
+  <mp:PhoneIdentity PhoneProductId="47cb4f10-c525-48a6-b3b4-cd0e60a091d5" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>Scriba Sketch</DisplayName>
+    <PublisherDisplayName>Dublin Design Studio Ltd</PublisherDisplayName>
+    <Logo>Assets\ScribaSketchStoreLogo.png</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="8.1.0.0" MaxVersionTested="10.0.0.0" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="HeartBeat.App">
+      <uap:VisualElements DisplayName="Scriba Sketch" Square150x150Logo="Assets\ScribaSketchMedTile.png" Square44x44Logo="Assets\ScribaSketchAppList.png" Description="Simple drawing application that is enabled to work with the Scriba stylus device" BackgroundColor="#1d4057">
+        <uap:DefaultTile Wide310x150Logo="Assets\ScribaSketchWideTile.png" Square310x310Logo="Assets\ScribaSketchLargeTile.png" Square71x71Logo="Assets\ScribaSketchSmallTile.png">
+          <uap:ShowNameOnTiles>
+            <uap:ShowOn Tile="square150x150Logo" />
+            <uap:ShowOn Tile="wide310x150Logo" />
+            <uap:ShowOn Tile="square310x310Logo" />
+          </uap:ShowNameOnTiles>
+        </uap:DefaultTile>
+        <uap:SplashScreen Image="Assets\ScribaSketchSplashScreen.png" BackgroundColor="#1d4057" />
+      </uap:VisualElements>
+      <Extensions>
+        <Extension Category="windows.backgroundTasks" EntryPoint="BackgroundStuff.MyBackgroundTask">
+          <BackgroundTasks>
+            <Task Type="systemEvent" />
+          </BackgroundTasks>
+        </Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="bluetooth" />
+  </Capabilities>
+</Package>

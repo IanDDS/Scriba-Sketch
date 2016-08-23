@@ -1,0 +1,37 @@
+﻿<Page
+    x:Class="HeartBeat.AboutPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HeartBeat"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    RequestedTheme="Dark">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" FontSize="30" HorizontalAlignment="Center">Scriba Sketch</TextBlock>
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <TextBlock FontSize="20" TextWrapping="Wrap" Margin="10,5,10,5">
+                    Version 1.00. Implementation by 
+                    <Hyperlink NavigateUri="http://www.dublindesignstudio.com">Dublin Design Studio Ltd (www.dublindesignstudio.com)</Hyperlink>, 
+                     source code available under  
+                    <Hyperlink NavigateUri="https://github.com/DrJukka">github.com/DrJukka</Hyperlink>
+                     repository.
+                </TextBlock>
+                <TextBlock FontSize="20" TextWrapping="Wrap" Margin="10,5,10,5">
+            To use first enable device Bluetooth and then pair your Scriba stylus with the device, without pairing it will not be visible in the selection list.
+                </TextBlock>
+                <TextBlock FontSize="20" TextWrapping="Wrap" Margin="10,5,10,5">
+            Once your Scriba is visible in the selection list, simply select it to begin drawing with your Scriba.
+                </TextBlock>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
+

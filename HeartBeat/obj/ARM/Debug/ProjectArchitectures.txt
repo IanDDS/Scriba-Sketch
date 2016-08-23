@@ -1,0 +1,1 @@
+C:\Users\Ian C\Downloads\Heart-rate-monitor-UWP--master2\Heart-rate-monitor-UWP--master\HeartBeat\HeartBeat\HeartBeat.csproj;arm
